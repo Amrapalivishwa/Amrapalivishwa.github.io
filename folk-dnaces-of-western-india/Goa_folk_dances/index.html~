@@ -1,0 +1,392 @@
+<html>
+  <head>
+    <title>Narrative Template 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/narrative-theme2.css">
+    <link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" data-toggle="tooltip" title="Introduction"
+          data-placement="bottom" href="#intro">RESTORY</a>
+        </div>
+    </nav>
+    <header class="row" >
+      <div id="header-text">
+        <h3></h3>
+        <div class="col-md-offset-3 col-lg-offset-3 col-xs-offset-3 col-sm-offset-3 col-md-6 col-lg-6 col-xs-6 col-sm-6">
+        <h2>Goan Folk Dances</h2>
+                     
+           </div>
+        </header>
+
+        <div class="main container-fluid " >
+
+
+          <section class="row" id="story-content">
+          <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12 ">
+            <h2>Goa India</h2>
+            <h3></h3>
+            <div class="col-md-offset-3 col-lg-offset-3 col-xs-offset-3 col-sm-offset-3 col-md-6 col-lg-6 col-xs-6 col-sm-6">
+             <h2>Goan Folk Dances</h2>
+              <div id="5507" ></div>
+              <div id="5549" ></div>
+              <p> Goa is a place for Fish, Fenny, food, fun and Festival. Goa is known for it's Carnival and sea beaches. We visited Goa in 2013, and witnessed the mix Culture of Hindu and Christians as influenced by Portuguese. Goan life is very relaxed and rejuvenating because of it's mixed and unique culture. Main occupation is fishing and farming. There is a famous story about a goan fisher man's siasta time(afternoon resttime). They will not exchange this time for any amount of money. There are relagious, ceremonial or social and harvest festival dances throughout the year which recreates vital life force and reduces stress. </p>
+              <hr />
+
+                 <div id="5508"></div>
+                 <h2> Goff Folk Dance </h2>
+ <p>Goa is influnced by many dynasties like Portuguese, The weaving of the plait - Goff - represents the smooth, conscious blending of the colorful cultural impressions left behind by several dynasties, which ruled over Goa during the past centuries. </p>
+                 <div id="5550"></div>
+                 <div id="5569"></div>
+             <hr />
+
+                <div id="5511"></div>
+                <h2> Samai Folk Dance or Divlyam Naach or Lamp Dance</h2>
+                <div id="5551"></div>
+                <div id="5553" ></div>
+                <div id="5554" ></div>
+             <hr />
+
+
+                 <div id="5513" ></div>
+                 <h2>Ghode Modeni Dance</h2>
+                 <div id="5555" ></div>
+                 <div id="5571" ></div>
+                 <div id="5574" ></div>            
+              <hr />
+
+                <div id="5512"></div>
+                <h3> Shimoga Festival Talghadi Dance </h3>
+                <div id="5567">
+                <div id="5568">
+                <div id="5575">
+                <div id="5577">
+                <div id="5580">
+                <div id="5617">
+             <hr />
+
+                <div id="5529"></div>
+                <h3> Tarang mel Dance </h3>
+                <div id="5584"></div>
+                <div id="5585"></div>           
+             <hr />
+
+               <div id="5530"></div>
+               <h3> Fugdi</h3>          
+               <div id="5532"></div>
+               <h3> Another type of Fugdi</h3>
+               <div id="5531"></div>
+               <h3> Another type of Fugdi</h3>
+                <div id="5588"></div>
+                <div id="5592"></div>
+                <div id="5589"></div>
+                <div id="5610"></div>
+              <hr />
+
+                <div id="5533"></div>
+                <h3> Dhalo Dance </h3>
+                <div id="5593"></div>
+                <div id="5594"></div>
+             <hr />
+                <div id="5534"></div>
+                <h3> Dekhni Dance </h3>
+                <div id="5595"></div>
+             <hr />
+                <div id="5535"></div>
+                <h3> Mando Dance </h3>
+                <div id="5596"></div>
+                <div id="5609"></div>
+             <hr />
+
+                <div id="5536"></div>
+                <h3> Kunbi Dance </h3>
+                <div id="5597"></div>
+                <div id="5599"></div>
+                <div id="5600"></div>
+                <div id="5602"></div>
+             <hr />
+
+                <div id="5537"></div>
+                <h3> Traditional Fisherman Dance </h3>
+                <div id="5603"></div>
+                <div id="5604"></div>
+                <div id="5605"></div>
+             <hr />
+
+                <div id="5538"></div>
+                <h3>  Goan Portugues Dance - Corredinho </h3>
+                <div id="5606"></div>
+                <div id="5607"></div>
+                <div id="5608"></div>
+             <hr />
+
+                <div id="5539"></div>
+                <h3>Tonya Mell Dance </h3>
+                <div id="5611"></div>
+                <div id="5612"></div>
+                <div id="5613"></div>
+               
+             <hr />
+
+                 <div id="5540"></div>
+                <h3>Dhangar Dance </h3>
+                <div id="5614"></div>
+              <hr />
+
+                 <div id="5542"></div>
+                <h3>Rombat Dance  </h3>
+                <div id="5618"></div>
+                <div id="5619"></div>
+                <div id="5615"></div>	
+                <h3>Romtamel Dance  </h3>
+                <div id="5616"></div>
+             <hr />
+             
+               
+               
+              <div id="5642"></div>
+              <h3> Dashavtara Dance </h3>
+              <div id="5703"></div>
+                <p>Dashavatar is the most developed theatre form of the Konkan and Goa regions. The performers personify the ten incarnations of Lord Vishnu-the god of preservation and creativity. The ten incarnations are Matsya (fish), Kurma (tortoise), Varaha (boar), Narsimha (lion-man), Vaman (dwarf), Parashuram, Rama, Krishna (or Balram), Buddha and Kalki. Apart from stylized make-up, the Dashavatar performers wear masks of wood and papier mache. ('Das' means ten, 'Avatar' means incarnations). </p>
+
+             <hr />
+
+                <div id="5544"></div>
+                <h3>  Jagor Dance </h3>
+                <div id="5621"></div>
+                <div id="5622"></div>
+                <div id="5623"></div>
+                <hr />
+
+                <div id=""></div>
+                <h3> Perani Jagar Dance </h3>
+                <div id="5626"></div>
+               <p> Kharvi Zagor - Kharvi Zagor is performed by the Kharvis meaning fisherfolk. Among the famous ones in Goa is Siolim Zagor which attracts a lot of people across the state. Shena Zagor of Velsaum seems to be not so lucky as this form is now extinct. </p>
+             <hr />
+
+                <div id="5628"></div>
+                <h3>kaalo-Dance </h3>
+                <div id="5627"></div>
+                <div id="5629"></div>
+                <p>Kaalo is yet another form of folk-play which has a deep influence of the neighbouring Karnataka folk art. The performers play with masks on, with percussionists beating at full force. The major attraction of the Kaalo is the dialogues that are humorous and ex-tempore. Even the character of Ganesha is subjected to irreverence wherein the character of priest would tell Ganesha that this pooja is being conducted by robbing and cheating the people. The pun and sarcasm amply used, is thoroughly enjoyed by the public in audience as they hear them sing of the grandchildren of a family crying because their grand-ma is not dying. Several types of Kaalo are performed in different parts of Goa. Sankasur Kaalo is named after the demon Sankasur while Gavlan Kaalo and Dhaim Kaalo are called so after the Lord Krishna. Besides these Dashavtari Kaalo, Raat Kaalo and Khell Kaalo are the other versions of Kaalo performed in different parts of Goa.</p>
+             <hr />
+                
+                <div id="5630"></div>
+                <h3> MORULO (Peacock dance) or Morulem Dance </h3>
+                <div id="5631"></div>
+                <p>This form of dance is closely associated with the pastoral community and hence depicts the dance of Lord Krishna and his companions. The musical accompaniment includes Pakhawaj, Zanj, Ghumat and also Harmonium. They sing songs describing the arrival of peacock in their village and its beauty. The folk dancers from Sarvan village of Bicholim taluka in north Goa district are famous for this performance.</p>
+             <hr />
+
+                <div id="5632"></div>
+                <h3> Bhandap Dance </h3>
+                <div id="5633"></div>
+                <div id="5639"></div>
+                <hr /> 
+              
+                <div id="5636"></div>
+                <h3> Mussal-Khel-Pestel-Dance </h3>
+                <div id="5634"></div>
+                <div id="5635"></div>
+                <div id="5637"></div>
+                <hr />
+
+                <h3> Suvari-folk-music-Dance </h3>
+               <div id="5638"></div>
+               <hr />
+
+               <div id="5641"></div>
+               <h3> Nanpet or Hanpet sward-dance </h3>
+               <div id="5640"></div>
+               <hr />
+
+              <div id="5643"></div>
+              <h3> Veerbhadra folk dance </h3>
+              <div id="5644"></div>  
+              <hr />
+          </div>
+      </div>    <!-- Do not make any changes below this section -->
+</section>
+<div class="col-md-6 col-lg-6 col-xs-6 col-sm-6 col-md-offset-3
+            col-lg-offset-3 col-xs-offset-3 col-sm-offset-3" id="socialIcons"> 
+            <div id="twitterShare"><a href="https://twitter.com/share"
+                class="twitter-share-button">Tweet</a>
+            <a<div i
+              href="https://twitter.com/intent/tweet?button_hashtag=TwitterStories"
+              class="twitter-hashtag-button">Tweet #TwitterStories</a>
+            <a href="https://twitter.com/intent/tweet?screen_name=support"
+              class="twitter-mention-button">Tweet to @support</a>
+            <a href="//www.pinterest.com/pin/create/button/"
+              data-pin-do="buttonBookmark"  data-pin-color="red"><img
+              src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png"
+              /></a></div>
+            <div class="fb-like"
+              data-href="http://ptx.restory.swtr.us/auto-restory/index.html"
+              data-layout="standard" data-action="like" data-show-faces="true"
+              data-share="true"></div>
+            <div class="fb-comments"
+              data-href="http://ptx.restory.swtr.us/auto-restory/index.html"
+              data-numposts="5" data-colorscheme="light"></div> 
+        
+      
+
+
+
+      <section class="" id="about">
+        <div class="modal fade" id="aboutModal">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close pull-left"
+                data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title">About</h4>
+              </div>
+              <div class="modal-body">
+                <h2> ABOUT HEADING </h2> <hr style="width:400px;"/>
+		            <p> Lorem ipsum dolor sit amet, consectetur adipiscing
+		            elit. Maecenas vel nulla non sem consequat pretium vitae eget
+		            leo. Nulla ut risus auctor, tincidunt odio in, pretium
+		            ipsum. Mauris congue nibh ipsum, in ultrices sem dignissim
+		            in. Suspendisse vel nibh blandit, euismod mi et, fringilla
+		            leo. </p>
+		            <p> Lorem ipsum dolor sit amet, consectetur adipiscing
+		            elit. Maecenas vel nulla non sem consequat pretium vitae eget
+		            leo. Nulla ut risus auctor, tincidunt odio in, pretium
+		            ipsum. Mauris congue nibh ipsum, in ultrices sem dignissim
+		            in. Suspendisse vel nibh blandit, euismod mi et, fringilla
+		            leo. </p>
+		            <p> Lorem ipsum dolor sit amet, consectetur adipiscing
+                elit. Maecenas vel nulla non sem consequat pretium vitae eget
+                leo. Nulla ut risus auctor, tincidunt odio in, pretium
+                ipsum. Mauris congue nibh ipsum, in ultrices sem dignissim
+                in. Suspendisse vel nibh blandit, euismod mi et, fringilla
+                leo. </p> <!--p>Mankind's early effort to preserve and pass
+                information over generations and across communities was
+                achieved through telling and re-telling of stories through
+                mediums like paintings, sculptures, songs, dance, oral
+                narratives and others. We seek to support such story telling
+                efforts (re-stories) by leveraging social networking and the
+                Web.</p>
+
+                    <p>The Dasara narrative is our first version of Restory,
+                      where we are illustrating Dr. Chaluvaraju's projection of
+                      Dasara Festival, and we start with his oral narrative.
+                      The narrative is then converted to text, and thus starts
+                      our journey to restorify this narrative into Visual
+                      narrative. Online material such as images, videos,
+                      animations, etc., can be annotated and used in a story
+                      conext.</p>
+
+<p>For our first version, we are using annotation information of images and
+  text that are available in a store of messages that link the web data
+  ( <a target="_blank"
+  href="http://digitalhampi.swtr.in">digitalhampi.swtr.in</a> ). The images
+  required for the narrative is tagged appropriately.  Example: the pictures
+  displayed in Mysooru Dasara section of this Re-story is tagged as Chaha,
+  Dasara, Mysore, Royal, name of ritual. The annotated source can be queried
+  with different parameters like, ID, User, Tags and more configurable
+  options.</p>
+
+<p>You can click on the images in the narrative to enlarge, and you will find
+  the lead EXPLORE <a target="_blank"
+  href="http://restory.swtr.us">restory.swtr.us</a> to see images related to
+  this story, tagged by users and ANNOTATE will lead to staging where you can
+  annotate. Annotate and explore the inter-connections that surface from this
+  story. You will also be able to re-story and create your own version of the
+  story. </p>
+<p>To see a short demo video of
+                                            restory, <a href="https://www.dropbox.com/s/w81dlze5tjb9xge/restory%20final%20%20music.mp4?dl=0"
+                                            target="-blank">click here</a>
+<p>If this has kindled your imagination, or you have questions on how to create
+  your own re-story? and for more...  contact vijayanagara at janastu dot org
+</p-->
+
+
+
+              </div>
+              </section>
+
+      <footer>
+        <div class=container>
+          &#0169; Copyright 2014
+        </div>
+      </footer>
+      <script type="text/template" id="story-image-template">
+        <div class="row">
+          <!-- <a href='#' data-toggle="modal" data-target="#lightbox"> -->
+          <div class="fullscreen-icon pull-right"><span class="glyphicon
+          glyphicon-fullscreen "></span></div> <img src=<%= where %>
+          class="story-image img-responsive " data-toggle="modal"
+          data-target="#lightbox" target-id=<%= id %>></img>
+
+          <!-- </a> --> <!-- <div class="hidden col-md-3" for=<%= id %>> -->
+          <div class="snipit col-md-12 pull-left">
+            <% if(how.comment) { %>
+            <p><span><b><%= who %></b> <em>says</em> <q><%= how.comment
+            %></q> </span></p> <% } else { %>
+            <p><span>No comments!!</span></p>  <% } %>
+          </div>
+          <div class="info-icon col-md-12"><span class="glyphicon
+              glyphicon-th-list pull-right"></span><div> <!-- </div> -->
+            </div>
+      </script>
+      <script type="text/template" id="swt-template">
+        <p><span><%= who %> has annotated <a href=<%= where %>>this</a>
+        image.</span></p>
+        <p>Tags: <b> <%= how.tags %> </b> </p> <a class="pull-right"
+        target="_blank" href=<%= annotate %> > / Annotate! </a>
+        <a class="pull-right" target="_blank" href=<%= explore %>>Explore
+        &nbsp;</a>
+    </script>
+     <script  type="text/template" id="txt-anno-template">
+                <div class="panel panel-default">
+                  <div class="panel-heading"><strong> Comment: </strong>
+                    created on <%= created %><h3
+                      class="panel-title"> <%=
+                      how.text %></h3> </div>
+                  <div class="panel-body">
+                    <%= how.quote %> 
+              </div>
+              <div class="panel-footer"><strong> User: </strong> <em>@<%= who %>  
+                </em> as annotated the above quote from <a href=<%= where %> > <%=
+                where %> </a> with <strong> Tags: </strong> <%= how.tags %>.
+              <a href="http://restory.swtr.us/"
+                target="_blank"> Click here </a> to Annotate or browse other
+              Annotations </div>
+            </div>
+              </script>
+
+      <div id="lightbox" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <button type="button" class="close hidden" data-dismiss="modal"
+          aria-hidden="true">×</button>
+          <div class="modal-content">
+            <div class="modal-body">
+              <img src="" alt="" />
+              <div id="modal-content"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="js/waypoints.min.js"></script>
+
+      <script type="text/javascript"
+      src="//underscorejs.org/underscore-min.js"></script>
+      <script type="text/javascript" src="//backbonejs.org/backbone-min.js"></script>
+      <script type="text/javascript" src="js/chapters.js"></script>
+      <script type="text/javascript" src="js/story.js"></script>
+  </body>
+</html>
